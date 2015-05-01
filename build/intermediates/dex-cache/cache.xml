@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kenny.lee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\kenny.lee\Code\android\RichNotification\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-fa2c38b87d2dc6dfd76fb8f04227c7679c44ed7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\kenny.lee\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\kenny.lee\Code\android\RichNotification\app\build\intermediates\pre-dexed\debug\gson-2.2.4-3ae03a8d7daa2292a7a3e28ef9b39bac721d6a41.jar" />
+    </item>
+    <item
+        jar="C:\Users\kenny.lee\Code\android\RichNotification\app\libs\richnotification-v1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b14fc9fc11957311e898af26a89d56042076014c">
+        <dex dex="C:\Users\kenny.lee\Code\android\RichNotification\app\build\intermediates\pre-dexed\debug\richnotification-v1.0.0-888d44197e2cc90bd1f9fd3591bb9091f0e8447a.jar" />
+    </item>
+    <item
+        jar="C:\Users\kenny.lee\Code\android\RichNotification\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\kenny.lee\Code\android\RichNotification\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0-1e00b9da7bd0e453e0fbc64cbfff3bd613ae37d3.jar" />
+    </item>
+
+</items>
